@@ -8,7 +8,7 @@
 * Interactive To-Do-List app via terminal
 * Save tasks to a json file
 
-### Tasks
+### ToDo
 1. Add Task
 2. List Taks
 3. Mark Task as done
